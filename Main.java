@@ -31,7 +31,7 @@ public class Main {
 
              } if (imc >= 18.5 && imc <= 25){
                  System.out.println("Normal, Tienes buena salud");
-             } if (imc < 18.6) {
+             } if (imc < 18.5) {
                  System.out.println("Estas debajo de lo normal, alimentate mas");
              }
      }
